@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀노력하는 신입개발자🚀 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 성장과 노력을 모토로하는 노력하는 신입 개발자 방효빈입니다. 코드의 세계에서 끊임없이 발전하며, 팀과 협업하여 더 나은 소프트웨어를 만들어내는 것에 열정을 가지고 있습니다. 새로운 도전에 즐거움을 느끼며, 학습을 통해 미래를 준비하고 있습니다. 함께 성장하며 더 나은 프로젝트를 만들어보고 싶습니다. 감사합니다! 🚀 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 성장과 노력을 모토로하는 노력하는 신입 개발자 방효빈입니다. <br/> 코드의 세계에서 끊임없이 발전하며, 팀과 협업하여 더 나은 소프트웨어를 만들어내는 것에 열정을 가지고 있습니다. <br/> 새로운 도전에 즐거움을 느끼며, 학습을 통해 미래를 준비하고 있습니다. <br/> 함께 성장하며 더 나은 프로젝트를 만들어보고 싶습니다. 감사합니다! 🚀 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
