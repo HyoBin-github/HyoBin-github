@@ -22,12 +22,20 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️ Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.notion.so/4ee27587286e429487e365f239a637a6?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/4ee27587286e429487e365f239a637a6?pvs=4"> </a>
          <a href=mailto:bin5229@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:bin5229@gmail.com"> </a>
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyoBin-github%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
+    </div><br/>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 Project </h2> <br> 
+        <div align="center">
+            <a href=https://github.com/HyoBin-github/-1st-Project> 📕 1st Project </a>
+        </div>
+        <div align="center">
+            <a href=https://github.com/HyoBin-github/-2st-and-3st-Project> 📚 2st, 3st Project </a>
+        </div>
     </div>
-
     
